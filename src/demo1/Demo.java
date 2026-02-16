@@ -4,7 +4,7 @@ public class Demo {
 	
 	//dasjbfaabfsaifnckjdsfasiufhdsdvdsvsdfs
 	
-	
+	System.out.println("Texto MASTER");
 
 }
 
